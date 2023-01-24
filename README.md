@@ -1,2 +1,2 @@
-# Doulusgen
+# Doulosgen
 Doulos general and public
